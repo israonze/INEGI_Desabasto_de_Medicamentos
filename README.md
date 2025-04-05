@@ -38,3 +38,41 @@ Este rango temporal permite observar los cambios en las variables de interés an
 
 ## 📁 Estructura del repositorio
 
+📂0-Limpieza de datos.R 
+📂00-Estadísticos descriptivos.R 
+📂1-Mapa de calor.R 2-Mapa de puntos.R 
+📂3-Prueba de raíz unitaria.R 
+📂4-Red neuronal.R 
+📂5-Regresión lineal.R 
+📂6-Regresión OLS.R
+
+## 📌 Conclusiones principales
+
+- Se observó una **variabilidad significativa en los precios** de la insulina y la metformina a lo largo del tiempo.  
+- Las políticas de **compras centralizadas** parecen haber generado disrupciones en la cadena de suministro y acceso a medicamentos.  
+- Se requieren medidas que combinen eficiencia administrativa con sostenibilidad en la provisión de medicamentos esenciales.  
+
+## ✅ Conclusiones y recomendaciones
+
+Dado el análisis realizado, se **afirma parcialmente la hipótesis** sobre los efectos negativos de las decisiones gubernamentales en el mercado farmacéutico. Esta afirmación se ve limitada por la **falta de datos públicos suficientes**, lo que impidió aplicar métodos analíticos más robustos para ese sector.
+
+No obstante, se identificaron varios hallazgos clave:
+
+- Existe **mala recabación de datos por parte del gobierno**, especialmente evidente durante el sexenio actual.
+- En el **sector privado**, la información fue más útil, revelando un posible **poder de mercado estatal**.
+- Faltó información crítica sobre la **cadena de producción y transporte**, que suele estar restringida al ámbito privado.
+
+Las decisiones gubernamentales, particularmente el aumento de **adjudicaciones directas** en las compras públicas, sugieren respuestas de emergencia ante los cambios institucionales. Esto se refleja en la **variación de precios** y posibles problemas de acceso.
+
+**Recomendaciones:**
+
+- Crear **mecanismos de control y transparencia**, incluyendo auditorías estatales mensuales y anuales.
+- Enfocar las compras públicas en:
+  - Las **presentaciones necesarias** de insulina y metformina.
+  - Los **estados con mayor necesidad médica**.
+- Evitar escasez en el sector público, que obligue a los pacientes a recurrir al sector privado con precios más altos.
+- Elaborar un **manual nacional del proceso de compra**, detallando el registro y seguimiento de datos, para mejorar la toma de decisiones basada en evidencia.
+
+---
+
+
